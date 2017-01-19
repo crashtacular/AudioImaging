@@ -1,2 +1,2 @@
 # AudioImaging
-Create Images from audio input which contain the information of the audio file embeded
+Create Images from audio input which contain the information of the audio file embeded in the image
